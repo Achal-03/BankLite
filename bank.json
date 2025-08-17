@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "name": "Chippa Achal",
+        "balance": 1200.0,
+        "transactions": [
+            "Deposited: 500.0",
+            "Withdrew: 300.0"
+        ]
+    }
+]
